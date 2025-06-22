@@ -75,6 +75,9 @@ Metric: Mean Absolute Percentage Error (MAPE)
 🧠 Feature Selection
 Using feature importance from the CatBoost model, I identified the top 20 most useful features that significantly impacted revenue prediction. These included both numerical and engineered categorical features.
 
+![image](https://github.com/user-attachments/assets/9c11c7d3-2500-4bb2-9833-6fb241bed71f)
+
+
 📈 Results
 KFold cross-validation yielded the following results:
 
